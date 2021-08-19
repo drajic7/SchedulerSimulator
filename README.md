@@ -1,1 +1,3 @@
 # SchedulerSimulator
+
+Simulates process scheduling
